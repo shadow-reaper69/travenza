@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+travenza.db
+.DS_Store
+*.log
